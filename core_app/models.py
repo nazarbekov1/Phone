@@ -85,7 +85,7 @@ class PhoneImage(models.Model):
                                    related_name='image')
 
     class Meta:
-        verbose_name = 'Фото объекта'
+        verbose_name = 'Фото объекты'
         verbose_name_plural = 'Фото объекта'
 
 
